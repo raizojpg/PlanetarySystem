@@ -1,2 +1,2 @@
-# PlanetarySystemContributor: Mihnea Andreescu 
+# PlanetarySystem
  
